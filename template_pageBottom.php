@@ -1,0 +1,1 @@
+<div id="pageBottom">&copy; 2020 SocialNetwork</div>
